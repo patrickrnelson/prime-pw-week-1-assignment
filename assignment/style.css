@@ -1,13 +1,13 @@
 /* Give your page a fun background color */
 body {
-  background-color: #E9FAE3;
+  background-color: #F2F2F2;
 }
 
 /* Align the h1 containing your name in the center of the header*/
 h1 {
   font-size: 46px;
   font-family: sans-serif;
-  color: #FFFFFF;
+  color: #e9fae3;
 }
 
 /* Make the header and footer a different color from the background */
