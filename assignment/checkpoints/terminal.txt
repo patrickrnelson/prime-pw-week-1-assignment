@@ -13,16 +13,18 @@ cd ..
 mkdir
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-
+Running 'ls' on an empty folder will do nothing - no new lines will appear. Running 'ls' on a folder containing files will list
+the files within the folder in a 3 column arrangement.
 
 # 6 - What is a quick way to create a new file?
 touch
 
 # 7 - Run 'git --version' in your terminal. What is the output?
-
+2.15.0
 
 # 8 - Why would you run the command 'git status'?
-To check to see if the folder has been initialized and/or if the folder is ready to be committed.
+To check to see if the folder has been initialized and/or if all of the edited files have been added to the folder and/or if the folder is ready
+to be committed.
 
 # 9 - What does the command 'git add .' do?
 Adds everything that is in the current folder to git, and will stage a commit for the files that we want to commit.
